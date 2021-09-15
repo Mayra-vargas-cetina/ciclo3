@@ -1,4 +1,4 @@
-                                                                          ALCANCE DEL PROYECTO E-COMMERCE
+ALCANCE DEL PROYECTO E-COMMERCE
 
 El alcance del proyecto se enfoca principalmente en el desarrollo de un portal de comercio electrónico para artículos tecnológicos de segunda mano, buscando ser interactivo y amigable con el usuario que genere una vista de negocio, dentro del desarrollo del portal se tendrán en cuenta los siguientes pasos:
 
